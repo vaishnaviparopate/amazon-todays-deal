@@ -1,0 +1,159 @@
+*{
+    margin:0;
+    padding:0px;
+    box-sizing: border-box;
+
+}
+.container{
+    border: 2px solid black;
+    height:150%;
+    width:100%;
+    margin-left: 10px;
+    margin-right: 10px;
+    /* font-family: arial; */
+}
+.navbar{
+    /* border:1px solid black; */
+    height:30px;
+}
+a{
+    padding: 20px;
+    font-size: 17px;
+}
+a:hover{
+    color: chocolate;
+    text-decoration: underline;
+}
+h1{
+    position: relative;
+    left: 20px;
+    top:20px;
+    font-size:40px;
+    font-family: sans-serif;
+}
+.para{
+    font-size: 35px;
+    position: relative;
+    top: 50px;
+    height: 200px;
+}
+.img{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    grid-gap:5px;
+}
+.p1{
+    height:300px;
+    width:300px;
+    /* border: 2px solid black; */
+    padding: 50px;
+    background-color: rgb(234, 235, 238);
+    margin-left: 30px;
+    
+   
+}
+.button{
+    width: 100px;
+    height:40px;
+    color:white;
+    background-color: rgb(255, 0, 68);
+    font-size: 20px;
+    margin-left: 30px;
+}
+.para2{
+    font-size: 20px;
+    color: red;
+    
+}
+.a1{
+    color: black;
+    font-size:25px;
+    margin-left: 30px;
+}
+.a1:hover{
+    color: rgb(236, 109, 18);
+
+}
+.range{
+    height:9px;
+    width: 320px;
+    border: 1px solid rgb(184, 209, 218);
+    background-color: rgb(186, 212, 203);
+    margin-left: 30px;
+}
+.b1{
+    height:9px;
+    width: 30px; 
+    background-color: orangered;
+ }
+ .b2{
+    height:9px;
+    width: 20px; 
+    background-color: orangered;
+ }
+
+ .b3{
+    height:9px;
+    width: 40px; 
+    background-color: orangered;
+ }
+
+ .b4{
+    height:9px;
+    width: 10px; 
+    background-color: orangered;
+ }
+ .c1{
+    font-size: 20px;
+ }
+ .right{
+    margin-top: 190px;
+    font-size: 30px;
+ }
+ .right1{
+    margin-top: 190px;
+    font-size: 30px;
+    
+ }
+ .footer{
+    height:120px;
+    width: 100%;
+    /* border: 1px solid black; */
+    display: flex;
+    grid-gap:35px;
+   
+ }
+ .footer1{
+    height:120px;
+    width: 120PX;
+    
+ }
+ .d1{
+    
+    position:relative;
+    left:20px;
+    font-size: 20px;
+ }
+ .left1{
+    font-size: 30px;
+    position: relative;
+    top:50px;
+ }
+ .btn1{
+    position: relative;
+    left:1220px;
+    top:70px;
+    height:30px;
+    width:250px;
+    font-size: 16px;
+    border-radius: 30px;
+ }
+.downangle{
+font-size: 20px;
+position: relative;
+left:10px;
+ }
+  
+
+
